@@ -1,7 +1,7 @@
 using System;
 class Datatypes
 {
-   public void Learn()
+    public void Learn()
     {
         byte a = 255;
         short b = 23444;
