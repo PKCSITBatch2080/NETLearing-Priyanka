@@ -1,4 +1,4 @@
-// generic method ==> type as a argument
+// generic method ==> type as a arguments
 using System;
 
 class Generic
